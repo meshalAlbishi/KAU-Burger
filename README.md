@@ -8,6 +8,6 @@ mainly there is two user in the system(Admin, Cashier)
     - Cacheir, can mainly take the order from the cutomer and make the bill
 
 
-for the full project report, check 'Full-project.pdf'
+for the full project details, check 'Full-project.pdf'
 
 
